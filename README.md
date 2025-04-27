@@ -1,6 +1,6 @@
 # TicTacToe AI 🎞️🤖
 
-![TicTacToe AI Cover](A_2D_digital_graphic_illustrates_concepts_related_.png)
+![TicTacToe AI Cover](https://github.com/xwaxen/TicTacToe-AI/blob/main/9bdee4a9-e28e-40ca-8d87-19453eba7899.png?raw=true)
 
 This project implements a Tic-Tac-Toe game with an AI player using:
 - **Minimax Algorithm** (optimal decision-making)
